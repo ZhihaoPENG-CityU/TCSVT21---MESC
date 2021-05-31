@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/peng_19/code/NIPS17-DSC/pretrain-model-MNIST10000/model-mnist.ckpt"
+all_model_checkpoint_paths: "/home/peng_19/code/NIPS17-DSC/pretrain-model-MNIST10000/model-mnist.ckpt"
