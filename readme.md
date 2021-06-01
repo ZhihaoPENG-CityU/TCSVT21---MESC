@@ -2,7 +2,7 @@
 + Tensorflow
   + Python[3.6.9] + Tensorflow[1.13.1]
 + Pytorch
-  +   Code provided by Guo(https://github.com/XifengGuo/DSC-Net).
+  +   Pytorch implementation of DSC-Net by Guo(https://github.com/XifengGuo/DSC-Net).
 # Remark
 + Error[ModuleNotFoundError: No module named 'tensorflow.contrib']
   +   As the contrib module doesn't exist in TF2.0, it is advised to use "tf.compat.v1.keras.initializers.he_normal()" as the initializer.
