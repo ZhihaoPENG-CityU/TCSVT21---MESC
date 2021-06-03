@@ -13,10 +13,11 @@
 + Error[RuntimeError: tf.placeholder() is not compatible with eager execution]
   +   It is advised to use the "tf.compat.v1.disable_eager_execution()".
 # Ours
-+ If you find this work useful in your research, please cite:
-+ @article{peng2020maximum,
-  title={Maximum Entropy Subspace Clustering Network},
-  author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu},
-  journal={arXiv preprint arXiv:2012.03176},
-  year={2020}
-}
++ If you find this work useful in your research, 
+ please cite:
+    @article{peng2020maximum,
+        author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu},
+        title={Maximum Entropy Subspace Clustering Network},
+        journal={arXiv preprint arXiv:2012.03176},
+        year={2020}
+    }
