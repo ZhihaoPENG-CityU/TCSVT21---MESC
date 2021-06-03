@@ -1,11 +1,11 @@
 # MESC-Net
 + The contribution
-++ The main contributions of our work are two folds. First, we propose a novel deep subspace clustering method using the maximum entropy principle, which can promote the connectivity of the learned affinity matrix within each subspace. We also theoretically prove that the learned affinity matrix satisfies the block-diagonal property under the independent subspaces assumption. Second, we design a novel deep clustering framework to explicitly decouple the auto-encoder module and the self-expressiveness module, which makes the training of deep subspace methods more efficient.
-+ The loss of our MESC-Net.
+  +The main contributions of our work are two folds. First, we propose a novel deep subspace clustering method using the maximum entropy principle, which can promote the connectivity of the learned affinity matrix within each subspace. We also theoretically prove that the learned affinity matrix satisfies the block-diagonal property under the independent subspaces assumption. Second, we design a novel deep clustering framework to explicitly decouple the auto-encoder module and the self-expressiveness module, which makes the training of deep subspace methods more efficient.
++ The loss of our MESC-Net. <br>
 ![image](https://user-images.githubusercontent.com/23076563/120636381-2933bc80-c4a0-11eb-9075-8f81f712fea1.png)
-+ The framework of our MESC-Net.
++ The framework of our MESC-Net. <br>
 ![image](https://user-images.githubusercontent.com/23076563/120635808-75323180-c49f-11eb-8e52-2f62c096ca29.png)
-+ The schematic diagrams of the learned affinity matrices under various regularization techniques.
++ The schematic diagrams of the learned affinity matrices under various regularization techniques. <br>
 ![image](https://user-images.githubusercontent.com/23076563/120636103-cf32f700-c49f-11eb-8072-496970cff4cb.png)
 
 
