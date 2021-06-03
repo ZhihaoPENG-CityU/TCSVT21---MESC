@@ -1,6 +1,8 @@
 # Environment
 + Tensorflow
-  + Python[3.6.9] + Tensorflow[1.13.1]
+  + Tensorflow[1.13.1]
++ Python
+  + Python[3.6.9]
 + Pytorch
   +   Pytorch implementation of DSC-Net by Guo(https://github.com/XifengGuo/DSC-Net).
 # Remark
