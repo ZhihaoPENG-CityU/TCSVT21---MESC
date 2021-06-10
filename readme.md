@@ -7,10 +7,8 @@
     + Second, we design a novel deep clustering framework to explicitly decouple the auto-encoder module and the self-expressiveness module, which makes the training of deep subspace methods more efficient.
 -->
 # Environment
-+ Tensorflow
-  + Tensorflow[2.1.0]
-+ Python
-  + Python[3.6.10]
++ Tensorflow[2.1.0]
++ Python[3.6.10]
 + Pytorch
   +   Pytorch implementation of DSC-Net by Guo(https://github.com/XifengGuo/DSC-Net).
 # Remark
