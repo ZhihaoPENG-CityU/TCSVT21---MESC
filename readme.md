@@ -1,3 +1,20 @@
+# Maximum Entropy Subspace Clustering Network
+URL:https://arxiv.org/pdf/2012.03176.pdf
+
+
+We have added comments in the code, the specific details can correspond to the explanation in the paper.
+
+We appreciate it if you use this code and cite our paper.
+## The BibTeX files are as follows,
+### Maximum Entropy Subspace Clustering Network. PENG, et al. TCSVT21
+@article{peng2020maximum,
+        author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu},
+        title={Maximum Entropy Subspace Clustering Network},
+        journal={arXiv preprint arXiv:2012.03176},
+        year={2020}
+    }
+
+
 <!--# MESC-Net
 + The schematic diagrams of the learned affinity matrices under various regularization techniques. <br>
 ![image](https://user-images.githubusercontent.com/23076563/120636103-cf32f700-c49f-11eb-8072-496970cff4cb.png)
@@ -18,10 +35,3 @@
   +   It is advised to use the "tf.compat.v1.XXX" for code compatibility processing.
 + Error[RuntimeError: tf.placeholder() is not compatible with eager execution]
   +   It is advised to use the "tf.compat.v1.disable_eager_execution()".
-+ If you find this work useful in your research,please cite:
-  +   @article{peng2020maximum,
-        author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu},
-        title={Maximum Entropy Subspace Clustering Network},
-        journal={arXiv preprint arXiv:2012.03176},
-        year={2020}
-    }
