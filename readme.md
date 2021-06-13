@@ -12,7 +12,11 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
         journal={arXiv preprint arXiv:2012.03176},
         year={2020}
     }
-
+> article{peng2020maximum, <br>
+> author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu}, <br>
+> title={Maximum Entropy Subspace Clustering Network}, <br>
+> journal={arXiv preprint arXiv:2012.03176}, <br>
+> year={2020} <br>
 
 <!--# MESC-Net
 + The schematic diagrams of the learned affinity matrices under various regularization techniques. <br>
