@@ -5,7 +5,7 @@ URL:https://arxiv.org/pdf/2012.03176.pdf
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
 We appreciate it if you use this code and cite our paper, which can be cited as follows,
-### Maximum Entropy Subspace Clustering Network. PENG, et al. TCSVT21
+<!-- ### Maximum Entropy Subspace Clustering Network. PENG, et al. TCSVT21 -->
 @article{peng2020maximum,
         author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu},
         title={Maximum Entropy Subspace Clustering Network},
