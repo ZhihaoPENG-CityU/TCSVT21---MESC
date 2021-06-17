@@ -5,17 +5,16 @@ URL:https://arxiv.org/pdf/2012.03176.pdf
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
 We appreciate it if you use this code and cite our paper, which can be cited as follows,
-> @article{peng2020maximum, <br>
-> title={Maximum Entropy Subspace Clustering Network}, <br>
+> @ARTICLE{9455383, <br>
 > author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu}, <br>
-> journal={arXiv preprint arXiv:2012.03176}, <br>
-> year={2020} <br>
+> journal={IEEE Transactions on Circuits and Systems for Video Technology},  <br>
+> title={Maximum Entropy Subspace Clustering Network},  <br>
+> year={2021}, <br>
+> volume={}, <br>
+> number={}, <br>
+> pages={1-1}, <br>
+> doi={10.1109/TCSVT.2021.3089480} <br>
 > } <br>
-
-  
-  
-  
-  
 
 <!--# MESC-Net
 + The schematic diagrams of the learned affinity matrices under various regularization techniques. <br>
