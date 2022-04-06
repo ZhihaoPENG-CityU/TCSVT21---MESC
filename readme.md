@@ -1,6 +1,6 @@
 # Maximum Entropy Subspace Clustering Network
-URL:https://arxiv.org/pdf/2012.03176.pdf
-
+URL_arXiv:https://arxiv.org/pdf/2012.03176.pdf
+URL_IEEE: https://ieeexplore.ieee.org/document/9455383?source=authoralert
 
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
@@ -9,10 +9,10 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 >   author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu}, <br>
 >   journal={IEEE Transactions on Circuits and Systems for Video Technology},  <br>
 >   title={Maximum Entropy Subspace Clustering Network},  <br>
->   year={2021}, <br>
->   volume={}, <br>
->   number={}, <br>
->   pages={1-1}, <br>
+>   year={2022}, <br>
+>   volume={32}, <br>
+>   number={4}, <br>
+>   pages={2199-2210}, <br>
 >   doi={10.1109/TCSVT.2021.3089480} <br>
 > } <br>
 
