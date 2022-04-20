@@ -1,5 +1,6 @@
 # Maximum Entropy Subspace Clustering Network
-URL_arXiv:https://arxiv.org/pdf/2012.03176.pdf
+URL_arXiv: https://arxiv.org/pdf/2012.03176.pdf
+
 URL_IEEE: https://ieeexplore.ieee.org/document/9455383?source=authoralert
 
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
