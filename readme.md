@@ -1,4 +1,16 @@
 # Maximum Entropy Subspace Clustering Network
+
+[stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/TCSVT21---MESC?color=yellow
+[stars-url]: https://github.com/ZhihaoPENG-CityU/TCSVT21---MESC/stargazers
+[fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/TCSVT21---MESC?color=lightblue&label=fork
+[fork-url]: https://github.com/ZhihaoPENG-CityU/TCSVT21---MESC/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ZhihaoPENG-CityU.TCSVT21---MESC
+[adgc-url]: https://github.com/ZhihaoPENG-CityU/TCSVT21---MESC
+
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+[![visitors][visitors-img]][adgc-url]
+
 URL_arXiv: https://arxiv.org/pdf/2012.03176.pdf
 
 URL_IEEE: https://ieeexplore.ieee.org/document/9455383?source=authoralert
